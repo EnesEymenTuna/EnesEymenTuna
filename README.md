@@ -35,25 +35,4 @@ My greatest curiosity on my current journey is how artificial intelligence will 
 - LinkedIn: www.linkedin.com/in/enes-eymen-tuna
 
 ---
-<p align="center">
-  <h2>🦾 Technology Meets Essence 🌹</h2>
-  <i>"Like a <b>Double-Charm Baryon</b>; I am here to be rare and to produce with high energy."</i>
-</p>
-<br>
 
----
-
-### Stats 📊     
-
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDoubleCharm&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoubleCharm&layout=compact&theme=tokyonight)
-
-
-<br/>
-"This profile and its contents are crafted with the assistance of AI to better communicate my vision and technical goals."
-
-<br/>
-<p align="right">
-  Handcrafted with by <b>iDoubleCharm ⚛️ </b>
-</p>
