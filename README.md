@@ -1,36 +1,47 @@
+# Hi, I'm Enes Eymen Tuna 👋
 
-# Hi there, I'm Enes Eymen! 👋      
-
-### 🦾 About Me 
-I see software not just as writing code, but as turning dreams into reality. I love turning theoretical knowledge into projects and finding simple, elegant solutions to complex problems.
-
-My greatest curiosity on my current journey is how artificial intelligence will move beyond screens and into the physical world through robots (Embodied AI). I believe the future lies in the harmony of intelligence and movement.
+A software enthusiast interested in the intersection of Artificial Intelligence and Robotics. Focused on understanding the logic of intelligent systems, experimenting with local models, and exploring how software interacts with the physical world.
 
 ---
 
-### 🚀My Vision & Focus 
-- Embodied AI: Exploring how intelligence can interact with the physical world.
-
-- Artificial Intelligence: Interested in Local LLM Architectures and Generative AI.
-
-- Future Tech: Following advancements in Neuralink and Human-Machine Interaction.
-
-- Clean Code: Focused on writing readable, maintainable, and aesthetic code.
+### 🧠 Core Focus & Interests
+- **Embodied AI:** Researching how artificial intelligence can move beyond screens and integrate with physical robotic systems.
+- **Local LLMs:** Interested in deploying and testing open-source small language models locally, while exploring their limits on resource-constrained hardware.
+- **Future Tech:** Closely following global advancements in human-machine interaction and next-generation hardware ecosystems.
+- **Clean Code:** Striving to develop habits around writing readable, clean, and maintainable code.
 
 ---
 
-### 🏆 Experiences & Insights
-- WRO 2025 Türkiye | RoboMission Senior: As the software lead for my team, I designed autonomous driving algorithms and mission completion logic from start to finish. I gained experience in the integration of complex systems and addressing field issues.
-- YetGen & Doping Hafıza:  As part of 21st-century skills and professional development, I successfully completed an interdisciplinary training program focused on basic literacy skills, effective presentation techniques, and teamwork.
+### 📂 Key Experiences
+* **WRO 2025 Türkiye | RoboMission Senior (Software Lead)**
+  - Designed and implemented autonomous driving algorithms and mission-completion logic from scratch.
+  - Gained hands-on experience in complex system integration, sensor fusion, and real-time field troubleshooting.
+* **YetGen & Doping Hafıza Professional Development**
+  - Completed an intensive training program focused on 21st-century skills, teamwork, and effective communication in technical environments.
 
 ---
-### 🛠️ Tech Stack
-- Programming Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" align="center" /> (In Progress)
-- Tools & Platforms:  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" align="center" />  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" align="center" />  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" align="center" />
-- Frameworks & Libraries: **LOADING...**  🏗️
+
+### 🛠️ Tech Stack & Tools
+
+#### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+#### Frameworks & Libraries
+*Currently expanding my portfolio with AI, computer vision, and robotics libraries.*
+
 ---
-### 📫 Connect with me  
-   I am always open to feedback, mentorship, and opportunities to support tech projects. If my vision resonates with you, I would love to connect and learn from your experiences.
+
+### 📫 Connect with Me
+I am always open to technical discussions, mentorship, and collaborating on open-source projects. Feel free to reach out if you share a similar vision.
 - Gmail: tunaeneseymen@gmail.com
 - LinkedIn: www.linkedin.com/in/enes-eymen-tuna
 
